@@ -4,8 +4,7 @@ Use your Android device as a webcam for your PC.
 ### Requirements:
 #### PC:
 - Python 3.7–3.12
-- opencv-python and pyvirtualcam
-  - `pip install opencv-python pyvirtualcam`
+- opencv-python and pyvirtualcam: `pip install opencv-python pyvirtualcam`
 - Virtual camera supported by pyvirtualcam (e.g., OBS, v4l2loopback, [etc.](https://website-name.comhttps://pypi.org/project/pyvirtualcam/#:~:text=Supported%20virtual%20cameras))
 
 #### Android:
