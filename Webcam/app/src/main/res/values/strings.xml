@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Webcam</string>
+    <string name="start">></string>
+    <string name="stop">X</string>
+    <string name="ip">IP:</string>
+    <string name="host_ip">127.0.0.0</string>
+</resources>
